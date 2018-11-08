@@ -1,0 +1,33 @@
+U:\CIDM3312\inclass 4\bin\Debug\netcoreapp2.1\inclass 4.deps.json
+U:\CIDM3312\inclass 4\bin\Debug\netcoreapp2.1\inclass 4.runtimeconfig.json
+U:\CIDM3312\inclass 4\bin\Debug\netcoreapp2.1\inclass 4.runtimeconfig.dev.json
+U:\CIDM3312\inclass 4\bin\Debug\netcoreapp2.1\inclass 4.dll
+U:\CIDM3312\inclass 4\bin\Debug\netcoreapp2.1\inclass 4.pdb
+U:\CIDM3312\inclass 4\bin\Debug\netcoreapp2.1\inclass 4.Views.dll
+U:\CIDM3312\inclass 4\bin\Debug\netcoreapp2.1\inclass 4.Views.pdb
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\inclass 4.csprojAssemblyReference.cache
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\inclass 4.csproj.CoreCompileInputs.cache
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\inclass 4.RazorAssemblyInfo.cache
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\inclass 4.RazorAssemblyInfo.cs
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\inclass 4.AssemblyInfoInputs.cache
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\inclass 4.AssemblyInfo.cs
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\inclass 4.TagHelpers.input.cache
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\inclass 4.TagHelpers.output.cache
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\inclass 4.RazorCoreGenerate.cache
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\inclass 4.RazorTargetAssemblyInfo.cache
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\inclass 4.RazorTargetAssemblyInfo.cs
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\inclass 4.Views.pdb
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\inclass 4.dll
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\inclass 4.pdb
+U:\CIDM3312\inclass 4\obj\Debug\netcoreapp2.1\inclass 4.csproj.CopyComplete
+U:\CIDM3312\inclass 4\bin\Debug\netcoreapp2.1\MathLibrary.dll
